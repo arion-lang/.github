@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Thank you for using Arion. (And if you aren't, SWITCH NOW.) Arion was inspired by the Greek horse Arion, known to be the fastest horse alive. THat's exactly what this language is. FAST. Like C.
+Thank you for using Arion. (And if you aren't, SWITCH NOW.) Arion was inspired by the Greek horse Arion, known to be the fastest horse alive. That's exactly what this language is. FAST. Like C.
 
 And guess what? It's as easy as python, too.
